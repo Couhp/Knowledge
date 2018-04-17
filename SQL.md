@@ -45,10 +45,10 @@ Advanced Topics
 - Transactions: `COMMIT`, `ROLLBACK`, Error Handling
 
 
-=============
+------------------
 
 
-##Beginner
+## Beginner
 `
 - Where clauses (in, between, etc)
 - Update syntax
@@ -61,7 +61,7 @@ Advanced Topics
 - Understands basics of transactions
 - Understands constraints
 `
-##Intermediate
+## Intermediate
 `
 - How indexes work, difference between clustered, non-clustered, etc, what a page is and how they layout
 - Understanding of subqueries, and can think through using them in joins and wheres
@@ -74,7 +74,7 @@ Advanced Topics
 - Understands transactions and can layer them handling failures up the stack
 `
 
-##Advanced
+## Advanced
 `
 - Can read an execution plan, and understand how the different parts of the query effect it
 - Can tune queries with execution hints without screwing up performance (parallelism hints, index hints, loop hints, et al)
