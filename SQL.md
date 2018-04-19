@@ -4,21 +4,21 @@ Basics
 -
 ---
 
-1. `SELECT`ing columns from a table
-2. Aggregates Part 1: `COUNT`, `SUM`, `MAX`/`MIN`
-3. Aggregates Part 2: `DISTINCT`, `GROUP BY`, `HAVING`
+1. [x] `SELECT`ing columns from a table
+2. [x] Aggregates Part 1: `COUNT`, `SUM`, `MAX`/`MIN`
+3. [x] Aggregates Part 2: `DISTINCT`, `GROUP BY`, `HAVING`
 
 Intermediate
 -
 ---
 
-4. `JOIN`s, ANSI-89 and ANSI-92 syntax
-4. `UNION` vs `UNION ALL`
-5. `NULL` handling: `COALESCE` & Native NULL handling
-7. Subqueries: `IN`, `EXISTS`, and inline views
-8. Subqueries: Correlated
-2. `WITH` syntax: Subquery Factoring/CTE
-1. Views
+4. [x] `JOIN`s, ANSI-89 and ANSI-92 syntax
+4. [x] `UNION` vs `UNION ALL`
+5. [x] `NULL` handling: `COALESCE` & Native NULL handling
+7. [x] Subqueries: `IN`, `EXISTS`, and inline views
+8. [x] Subqueries: Correlated
+2. [x] `WITH` syntax: Subquery Factoring/CTE
+1. [x] Views
 
 Advanced Topics
 -
@@ -50,7 +50,7 @@ Advanced Topics
 
 ## Beginner
 `
-- Where clauses (in, between, etc)
+- [x] Where clauses (in, between, etc)
 - Update syntax
 - Inner vs left vs right join understanding and usage
 - Syntax for altering and creating structures
